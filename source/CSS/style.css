@@ -74,7 +74,6 @@ nav{
     width: 200px;
     height: 200px;
     overflow: hidden;
-    margin-top: 100px;
     margin-bottom: 50px;
 }
 .inform p{
@@ -108,7 +107,6 @@ nav{
     padding-top: 40px;
 }
 .functional{
-    margin-top: 140px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -131,7 +129,19 @@ nav{
     color: #263244;
 }
 .cases p{
-    padding-top: 70px;
+    padding-bottom: 45px;
+}
+.border_top{
+    border:2px solid #d17700;
+    width: 3%;
+    margin: 30px auto; 
+}
+.project{
+    text-align: start;
+    margin: 40px 20%;
+}
+.container_left{
+    float: left;
 }
 
 
