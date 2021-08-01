@@ -119,6 +119,20 @@ nav{
     color: #cf7600;
     font-weight: bold;
 } 
+.cases{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.cases h2{
+    padding-top: 110px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #263244;
+}
+.cases p{
+    padding-top: 70px;
+}
 
 
 
